@@ -20,3 +20,4 @@
 - 2025-10-16 14:39:11 [#18] Add evaluation metrics
 - 2025-10-16 15:33:33 [#19] Update documentation
 - 2025-10-16 18:49:42 [#20] Refactor and clean code
+- 2025-10-16 20:47:31 [#21] Training script update
