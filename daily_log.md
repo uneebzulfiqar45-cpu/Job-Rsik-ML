@@ -24,3 +24,4 @@
 - 2025-10-16 21:29:57 [#22] Update project notes
 - 2025-10-16 22:51:33 [#23] Feature engineering
 - 2025-10-17 09:45:08 [#24] Refactor and clean code
+- 2025-10-17 13:57:10 [#25] Update README
