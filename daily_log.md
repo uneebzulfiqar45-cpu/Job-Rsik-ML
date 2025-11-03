@@ -124,3 +124,4 @@
 - 2025-11-03 09:28:04 [#122] Training script update
 - 2025-11-03 11:12:56 [#123] Minor improvements
 - 2025-11-03 14:24:47 [#124] Add comments
+- 2025-11-03 15:13:50 [#125] Add evaluation metrics
