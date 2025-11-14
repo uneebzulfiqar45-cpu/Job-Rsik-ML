@@ -178,3 +178,4 @@
 - 2025-11-14 14:46:00 [#176] Fix bug in prediction
 - 2025-11-14 15:35:57 [#177] Feature engineering
 - 2025-11-14 16:33:39 [#178] Refactor and clean code
+- 2025-11-14 17:12:04 [#179] Add evaluation metrics
