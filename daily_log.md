@@ -203,3 +203,4 @@
 - 2025-11-20 20:53:19 [#201] Update documentation
 - 2025-11-20 21:54:51 [#202] Optimize pipeline
 - 2025-11-20 22:24:47 [#203] Minor improvements
+- 2025-11-21 09:55:14 [#204] Add evaluation metrics
