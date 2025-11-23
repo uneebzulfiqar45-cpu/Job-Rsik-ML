@@ -214,3 +214,4 @@
 - 2025-11-22 14:01:10 [#212] Add evaluation metrics
 - 2025-11-22 19:20:49 [#213] Fix preprocessing step
 - 2025-11-23 09:12:45 [#214] Minor improvements
+- 2025-11-23 10:23:26 [#215] Update documentation
