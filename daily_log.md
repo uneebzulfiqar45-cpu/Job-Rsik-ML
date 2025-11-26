@@ -236,3 +236,4 @@
 - 2025-11-26 15:38:50 [#234] Update project notes
 - 2025-11-26 16:00:08 [#235] Fix preprocessing step
 - 2025-11-26 17:22:12 [#236] Training script update
+- 2025-11-26 18:40:17 [#237] Add evaluation metrics
