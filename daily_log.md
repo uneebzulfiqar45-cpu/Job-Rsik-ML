@@ -246,3 +246,4 @@
 - 2025-11-27 14:35:20 [#244] Add new feature
 - 2025-11-27 15:04:46 [#245] Update documentation
 - 2025-11-27 17:14:20 [#246] Minor improvements
+- 2025-11-27 19:07:34 [#247] Fix preprocessing step
