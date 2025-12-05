@@ -288,3 +288,4 @@
 - 2025-12-03 22:32:00 [#286] Save model checkpoint
 - 2025-12-04 15:58:14 [#287] Save model checkpoint
 - 2025-12-05 13:12:29 [#288] Refactor and clean code
+- 2025-12-05 14:11:46 [#289] Add evaluation metrics
