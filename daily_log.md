@@ -287,3 +287,4 @@
 - 2025-12-03 21:25:04 [#285] Fix bug in prediction
 - 2025-12-03 22:32:00 [#286] Save model checkpoint
 - 2025-12-04 15:58:14 [#287] Save model checkpoint
+- 2025-12-05 13:12:29 [#288] Refactor and clean code
