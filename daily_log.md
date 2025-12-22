@@ -391,3 +391,4 @@
 - 2025-12-20 21:56:43 [#389] Fix preprocessing step
 - 2025-12-21 21:36:01 [#390] Refactor and clean code
 - 2025-12-22 13:28:31 [#391] Training script update
+- 2025-12-22 14:41:51 [#392] Update README
