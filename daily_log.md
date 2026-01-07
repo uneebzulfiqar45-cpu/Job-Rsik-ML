@@ -479,3 +479,4 @@
 - 2026-01-06 12:48:32 [#477] Update README
 - 2026-01-06 14:41:52 [#478] Add comments
 - 2026-01-07 09:27:55 [#479] Data cleaning update
+- 2026-01-07 10:09:41 [#480] Add evaluation metrics
