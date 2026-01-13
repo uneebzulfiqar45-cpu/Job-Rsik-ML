@@ -505,3 +505,4 @@
 - 2026-01-12 22:27:52 [#503] Experiment with parameters
 - 2026-01-13 10:33:21 [#504] Minor improvements
 - 2026-01-13 11:57:17 [#505] Data cleaning update
+- 2026-01-13 12:09:26 [#506] Update project notes
