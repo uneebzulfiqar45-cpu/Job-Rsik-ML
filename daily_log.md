@@ -521,3 +521,4 @@
 - 2026-01-15 14:39:18 [#519] Update documentation
 - 2026-01-15 15:03:04 [#520] Save model checkpoint
 - 2026-01-15 16:58:56 [#521] Update project notes
+- 2026-01-15 18:03:44 [#522] Fix preprocessing step
