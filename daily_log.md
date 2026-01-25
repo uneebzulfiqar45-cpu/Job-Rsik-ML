@@ -565,3 +565,4 @@
 - 2026-01-24 09:54:13 [#563] Update README
 - 2026-01-24 11:18:08 [#564] Add evaluation metrics
 - 2026-01-24 13:28:14 [#565] Training script update
+- 2026-01-25 09:27:40 [#566] Fix bug in prediction
