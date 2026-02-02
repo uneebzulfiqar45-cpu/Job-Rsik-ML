@@ -606,3 +606,4 @@
 - 2026-02-02 10:56:40 [#604] Feature engineering
 - 2026-02-02 11:59:54 [#605] Minor improvements
 - 2026-02-02 14:42:57 [#606] Update documentation
+- 2026-02-02 15:43:44 [#607] Fix preprocessing step
