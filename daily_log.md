@@ -746,3 +746,4 @@
 - 2026-02-25 21:34:19 [#744] Data cleaning update
 - 2026-02-25 22:51:05 [#745] Fix bug in prediction
 - 2026-02-26 10:43:03 [#746] Minor improvements
+- 2026-02-26 11:06:01 [#747] Add evaluation metrics
