@@ -748,3 +748,4 @@
 - 2026-02-26 10:43:03 [#746] Minor improvements
 - 2026-02-26 11:06:01 [#747] Add evaluation metrics
 - 2026-02-26 13:51:16 [#748] Save model checkpoint
+- 2026-02-26 22:23:49 [#749] Fix preprocessing step
