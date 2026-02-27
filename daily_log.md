@@ -750,3 +750,4 @@
 - 2026-02-26 13:51:16 [#748] Save model checkpoint
 - 2026-02-26 22:23:49 [#749] Fix preprocessing step
 - 2026-02-27 09:58:04 [#750] Training script update
+- 2026-02-27 10:26:28 [#751] Update documentation
