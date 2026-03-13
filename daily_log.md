@@ -835,3 +835,4 @@
 - 2026-03-12 19:28:52 [#833] Experiment with parameters
 - 2026-03-12 21:12:36 [#834] Update project notes
 - 2026-03-13 13:29:41 [#835] Update documentation
+- 2026-03-13 14:59:33 [#836] Fix preprocessing step
