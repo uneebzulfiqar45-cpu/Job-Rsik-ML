@@ -962,3 +962,4 @@
 - 2026-04-03 18:47:15 [#960] Minor improvements
 - 2026-04-03 19:38:01 [#961] Feature engineering
 - 2026-04-03 20:25:35 [#962] Optimize pipeline
+- 2026-04-03 22:58:34 [#963] Add evaluation metrics
