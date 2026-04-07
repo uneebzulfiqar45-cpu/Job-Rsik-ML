@@ -985,3 +985,4 @@
 - 2026-04-06 21:59:55 [#983] Minor improvements
 - 2026-04-06 22:30:14 [#984] Fix preprocessing step
 - 2026-04-07 10:02:10 [#985] Minor improvements
+- 2026-04-07 11:54:13 [#986] Add evaluation metrics
