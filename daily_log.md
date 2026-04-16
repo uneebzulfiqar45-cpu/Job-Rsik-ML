@@ -1035,3 +1035,4 @@
 - 2026-04-16 12:25:03 [#1033] Fix bug in prediction
 - 2026-04-16 13:17:08 [#1034] Refactor and clean code
 - 2026-04-16 14:28:55 [#1035] Minor improvements
+- 2026-04-16 15:43:50 [#1036] Fix preprocessing step
