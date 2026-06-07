@@ -1287,3 +1287,4 @@
 - 2026-06-07 15:39:59 [#1285] Update README
 - 2026-06-07 17:13:17 [#1286] Minor improvements
 - 2026-06-07 19:05:24 [#1287] Experiment with parameters
+- 2026-06-07 20:58:00 [#1288] Fix preprocessing step
