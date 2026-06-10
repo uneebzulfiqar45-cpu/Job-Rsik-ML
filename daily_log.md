@@ -1307,3 +1307,4 @@
 - 2026-06-10 09:30:38 [#1305] Minor improvements
 - 2026-06-10 11:20:18 [#1306] Add evaluation metrics
 - 2026-06-10 15:03:38 [#1307] Add comments
+- 2026-06-10 17:02:50 [#1308] Update documentation
