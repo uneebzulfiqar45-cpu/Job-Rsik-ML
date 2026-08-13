@@ -1688,3 +1688,4 @@
 - 2026-08-13 16:09:44 [#1686] Add comments
 - 2026-08-13 17:33:46 [#1687] Update README
 - 2026-08-13 18:42:02 [#1688] Save model checkpoint
+- 2026-08-13 19:45:09 [#1689] Add evaluation metrics
