@@ -1961,3 +1961,4 @@
 - 2026-09-29 13:45:16 [#1959] Add dataset analysis
 - 2026-09-29 14:18:45 [#1960] Refactor and clean code
 - 2026-09-29 15:51:51 [#1961] Fix bug in prediction
+- 2026-09-29 20:12:27 [#1962] Fix preprocessing step
