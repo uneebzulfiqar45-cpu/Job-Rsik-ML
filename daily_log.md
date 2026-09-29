@@ -1957,3 +1957,4 @@
 - 2026-09-28 13:01:27 [#1955] Training script update
 - 2026-09-28 20:49:08 [#1956] Update README
 - 2026-09-28 21:19:18 [#1957] Code review changes
+- 2026-09-29 09:23:03 [#1958] Add evaluation metrics
