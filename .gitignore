@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files (optional - keeping CSV instead)
+*.zip
